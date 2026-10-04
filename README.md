@@ -8,7 +8,7 @@ Automated GitHub contribution snake animation, generated with GitHub Actions and
 
 ## ✨ Features
 
-- Fully automated SVG generation
+- Fully automated SVG generation 
 - Scheduled updates every 12 hours
 - Clean output published to the `output` branch
 - Lightweight and easy to maintain
