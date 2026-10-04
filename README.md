@@ -36,3 +36,4 @@ Automated GitHub contribution snake animation, generated with GitHub Actions and
 ## 🎯 Motivation
 
 This project serves as a compact portfolio piece showing how automation can turn GitHub contribution data into a clean visual identity.
+
